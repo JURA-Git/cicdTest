@@ -15,4 +15,4 @@ jobs:                      # 여러 개의 Job 정의
     - name: Change Directory and List files #두번쨰실행
       run: |
         cd ~               
-        ls -al             
+        ls -al  
